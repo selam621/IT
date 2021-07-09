@@ -55,7 +55,7 @@ span {
 }
 .bottom-img {
     position: absolute;
-    left: 150px;
+    left: 130px;
     bottom: 400px;
 }
 .btn {
@@ -128,6 +128,6 @@ span {
 }
 .top-img {
    position: absolute;
-   right: 235px;
+   right: 215px;
    top: 50px;
 }
